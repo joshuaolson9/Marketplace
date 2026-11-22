@@ -1,0 +1,14 @@
+{
+  "name": "my-marketplace",
+  "description": "Plugins for my team",
+  "owner": {
+    "name": "Josh Olson"
+  },
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "source": "./plugins/my-first-plugin",
+      "description": "A greeting plugin to learn the basics"
+    }
+  ]
+}
