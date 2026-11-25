@@ -1,0 +1,22 @@
+{
+  "extraKnownMarketplaces": {
+    "book-editor-skill": {
+      "source": {
+        "source": "github",
+        "repo": "nuwrldnf8r/book_editor_skill",
+        "ref": "55abf13b80869c4a7a6d270e20ebaa7011e14752"
+      }
+    },
+    "claude-plugins-official": {
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-official"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "book-editor@book-editor-skill": true,
+    "humanizer@book-editor-skill": true,
+    "commit-commands@claude-plugins-official": true
+  }
+}
